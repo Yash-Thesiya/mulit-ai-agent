@@ -157,6 +157,8 @@ The Synthesizer Agent uses these results to generate the final response.
 
 ```bash
 pip install -r requirements.txt
+pip install openai
+pip install load_dotenv
 ```
 
 ### Create Environment File
